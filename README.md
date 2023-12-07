@@ -1,5 +1,5 @@
 # ESTIMACION DE PRECIOS DEL BITCOIN
-<img src="multimedia/Banner.jpng" width="800" height="300">
+<img src="Banner.jpeg" width="800" height="300">
 
 ## Autores:
 
