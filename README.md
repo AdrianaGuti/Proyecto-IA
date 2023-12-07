@@ -1,2 +1,4 @@
-# Proyecto-IA
-Modelo de regresión para predecir los precios del Bitcoin
+
+#Autores 
+* Adriana Gutierrez, Ándres Cárdenas y Ronald Arias
+
