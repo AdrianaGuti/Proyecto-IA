@@ -1,4 +1,4 @@
-# ESTIMACION DE PRECIOS DEL BITCOIN
+# PROYECTO FINAL IA
 <img src="Banner.jpeg" width="800" height="300">
 
 ## Autores:
