@@ -20,3 +20,4 @@ PCA, DecisionTreeClassifier(Tunning y curva de aprendizaje), RandomForestClassif
 https://colab.research.google.com/drive/12eZ89_Z_lTYBoSKmwucrmAIWW2Xgy-gX?usp=sharing#scrollTo=DouhwpeRfC2H
 
 ## Enlace del video
+https://youtu.be/PAeEbt31Tkk?si=pxYsK0eSYYU91w0i 
